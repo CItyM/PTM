@@ -1,0 +1,19 @@
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Release\android\assets\Public Transport Manager.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Release\android\assets\FloatingActionButton-Xamarin.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Release\android\assets\Mono.Android.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Release\android\assets\mscorlib.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Release\android\assets\Newtonsoft.Json.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Release\android\assets\System.Core.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Release\android\assets\System.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Release\android\assets\System.Xml.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Release\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Release\android\assets\Xamarin.Android.Support.v4.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Release\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Release\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Release\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Release\android\assets\Xamarin.GooglePlayServices.Base.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Release\android\assets\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Release\android\assets\Xamarin.GooglePlayServices.Location.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Release\android\assets\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Release\android\assets\System.ServiceModel.Internals.dll

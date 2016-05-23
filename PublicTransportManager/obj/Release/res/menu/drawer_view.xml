@@ -1,0 +1,4 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"><group android:checkableBehavior="single"><item android:id="@+id/nav_check_line" android:icon="@drawable/ic_bus" android:title="@string/check_line" /><item android:id="@+id/nav_stop" android:icon="@drawable/ic_bus_stop" android:title="@string/closest_stop" /><!--part form the project for feature development--><!--<item
+        android:id="@+id/nav_short_cut"
+        android:icon="@drawable/ic_place"
+        android:title="@string/short_cut" />--></group></menu>

@@ -1,0 +1,263 @@
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\bin\Debug\Public Transport Manager.dll
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\bin\Debug\Public Transport Manager.pdb
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\bin\Debug\com.citym.ptm.apk
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\bin\Debug\com.citym.ptm-Signed.apk
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\bin\Debug\FloatingActionButton-Xamarin.dll
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\bin\Debug\Xamarin.GooglePlayServices.Location.dll
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\bin\Debug\FloatingActionButton-Xamarin.xml
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\PublicTransportManager.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\Public Transport Manager.dll
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\Public Transport Manager.pdb
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\android\bin\com.citym.ptm.apk
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\layout\check_line_layout.xml
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\layout\closest_stop_layout.xml
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\layout\nav_header.xml
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\layout\shortcut_layout.xml
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\layout\info_window.xml
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xhdpi\ic_bus.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xhdpi\ic_bus_stop.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xhdpi\ic_clock.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xhdpi\ic_distance.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xhdpi\ic_gps_arrow.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xhdpi\ic_location.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xhdpi\ic_place.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xhdpi\ic_position.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xhdpi\ic_search.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xxxhdpi\ic_menu.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\menu\drawer_view.xml
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\menu\sample_actions.xml
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\values\colors.xml
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\values\dimens.xml
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\values\strings.xml
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\values\styles.xml
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\values-v21\styles.xml
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-hdpi\ic_bus.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-hdpi\ic_bus_stop.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-hdpi\ic_clock.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-hdpi\ic_distance.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-hdpi\ic_gps_arrow.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-hdpi\ic_location.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-hdpi\ic_place.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-hdpi\ic_search.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-mdpi\ic_bus.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-mdpi\ic_bus_stop.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-mdpi\ic_clock.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-mdpi\ic_distance.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-mdpi\ic_gps_arrow.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-mdpi\ic_location.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-mdpi\ic_place.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-mdpi\ic_search.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xxhdpi\ic_bus.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xxhdpi\ic_bus_stop.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xxhdpi\ic_distance.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xxhdpi\ic_gps_arrow.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xxhdpi\ic_place.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xxhdpi\ic_search.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xxxhdpi\ic_bus.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xxxhdpi\ic_bus_stop.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xxxhdpi\ic_clock.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xxxhdpi\ic_distance.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xxxhdpi\ic_gps_arrow.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xxxhdpi\ic_location.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xxxhdpi\ic_place.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xxxhdpi\ic_search.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-mdpi\ic_bus_stop_pointer.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-hdpi\ic_bus_stop_pointer.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xhdpi\ic_bus_stop_pointer.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xxhdpi\ic_bus_stop_pointer.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xxhdpi\ic_location.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\res\drawable-xxxhdpi\ic_bus_stop_pointer.png
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\R.cs.flag
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\uploadflags.txt
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\obj\Debug\Public Transport Manager.dll.mdb
+C:\Users\Marin\Downloads\Proj - Copy\DrawMapPathXamarin\bin\Debug\Public Transport Manager.dll.mdb
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\bin\Debug\Public Transport Manager.dll
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\bin\Debug\Public Transport Manager.pdb
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\bin\Debug\com.citym.ptm.apk
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\bin\Debug\com.citym.ptm-Signed.apk
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\bin\Debug\FloatingActionButton-Xamarin.dll
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\bin\Debug\Xamarin.GooglePlayServices.Location.dll
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\bin\Debug\FloatingActionButton-Xamarin.xml
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\Public Transport Manager.dll
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\Public Transport Manager.pdb
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\android\bin\com.citym.ptm.apk
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\layout\check_line_layout.xml
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\layout\closest_stop_layout.xml
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\layout\nav_header.xml
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\layout\shortcut_layout.xml
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\layout\info_window.xml
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xhdpi\ic_bus.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xhdpi\ic_bus_stop.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xhdpi\ic_clock.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xhdpi\ic_distance.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xhdpi\ic_gps_arrow.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xhdpi\ic_location.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xhdpi\ic_place.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xhdpi\ic_position.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xhdpi\ic_search.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xxxhdpi\ic_menu.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\menu\drawer_view.xml
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\menu\sample_actions.xml
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\values\colors.xml
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\values\dimens.xml
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\values\strings.xml
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\values\styles.xml
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\values-v21\styles.xml
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-hdpi\ic_bus.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-hdpi\ic_bus_stop.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-hdpi\ic_clock.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-hdpi\ic_distance.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-hdpi\ic_gps_arrow.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-hdpi\ic_location.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-hdpi\ic_place.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-hdpi\ic_search.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-mdpi\ic_bus.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-mdpi\ic_bus_stop.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-mdpi\ic_clock.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-mdpi\ic_distance.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-mdpi\ic_gps_arrow.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-mdpi\ic_location.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-mdpi\ic_place.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-mdpi\ic_search.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xxhdpi\ic_bus.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xxhdpi\ic_bus_stop.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xxhdpi\ic_distance.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xxhdpi\ic_gps_arrow.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xxhdpi\ic_place.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xxhdpi\ic_search.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xxxhdpi\ic_bus.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xxxhdpi\ic_bus_stop.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xxxhdpi\ic_clock.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xxxhdpi\ic_distance.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xxxhdpi\ic_gps_arrow.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xxxhdpi\ic_location.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xxxhdpi\ic_place.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xxxhdpi\ic_search.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-mdpi\ic_bus_stop_pointer.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-hdpi\ic_bus_stop_pointer.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xhdpi\ic_bus_stop_pointer.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xxhdpi\ic_bus_stop_pointer.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xxhdpi\ic_location.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\res\drawable-xxxhdpi\ic_bus_stop_pointer.png
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\R.cs.flag
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\uploadflags.txt
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\PublicTransportManager.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\obj\Debug\Public Transport Manager.dll.mdb
+C:\Users\Marin\Downloads\Proj - Copy\PublicTransportManager\bin\Debug\Public Transport Manager.dll.mdb
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\bin\Debug\Public Transport Manager.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\bin\Debug\Public Transport Manager.pdb
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\bin\Debug\com.citym.ptm.apk
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\bin\Debug\com.citym.ptm-Signed.apk
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\bin\Debug\FloatingActionButton-Xamarin.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\bin\Debug\Xamarin.GooglePlayServices.Location.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\bin\Debug\FloatingActionButton-Xamarin.xml
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\Public Transport Manager.dll
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\Public Transport Manager.pdb
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\android\bin\com.citym.ptm.apk
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\layout\check_line_layout.xml
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\layout\closest_stop_layout.xml
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\layout\nav_header.xml
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\layout\shortcut_layout.xml
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\layout\info_window.xml
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-hdpi\icon.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-mdpi\icon.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xxxhdpi\icon.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xhdpi\ic_bus.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xhdpi\ic_bus_stop.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xhdpi\ic_clock.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xhdpi\ic_distance.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xhdpi\ic_gps_arrow.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xhdpi\ic_location.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xhdpi\ic_place.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xhdpi\ic_position.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xhdpi\ic_search.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xxxhdpi\ic_menu.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\menu\drawer_view.xml
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\menu\sample_actions.xml
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\values\colors.xml
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\values\dimens.xml
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\values\strings.xml
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\values\styles.xml
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\values-v21\styles.xml
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-hdpi\ic_bus.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-hdpi\ic_bus_stop.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-hdpi\ic_clock.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-hdpi\ic_distance.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-hdpi\ic_gps_arrow.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-hdpi\ic_location.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-hdpi\ic_place.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-hdpi\ic_search.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-mdpi\ic_bus.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-mdpi\ic_bus_stop.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-mdpi\ic_clock.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-mdpi\ic_distance.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-mdpi\ic_gps_arrow.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-mdpi\ic_location.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-mdpi\ic_place.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-mdpi\ic_search.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xxhdpi\ic_bus.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xxhdpi\ic_bus_stop.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xxhdpi\ic_distance.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xxhdpi\ic_gps_arrow.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xxhdpi\ic_place.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xxhdpi\ic_search.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xxxhdpi\ic_bus.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xxxhdpi\ic_bus_stop.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xxxhdpi\ic_clock.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xxxhdpi\ic_distance.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xxxhdpi\ic_gps_arrow.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xxxhdpi\ic_location.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xxxhdpi\ic_place.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xxxhdpi\ic_search.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-mdpi\ic_bus_stop_pointer.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-hdpi\ic_bus_stop_pointer.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xhdpi\ic_bus_stop_pointer.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xxhdpi\ic_bus_stop_pointer.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xxhdpi\ic_location.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\res\drawable-xxxhdpi\ic_bus_stop_pointer.png
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\R.cs.flag
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\uploadflags.txt
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\obj\Debug\Public Transport Manager.dll.mdb
+C:\Users\Marin\Desktop\347\PublicTransportManager\PublicTransportManager\bin\Debug\Public Transport Manager.dll.mdb

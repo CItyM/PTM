@@ -1,0 +1,35 @@
+﻿<Properties StartupItem="..\..\..\Downloads\Proj - Copy\PublicTransportManager\PublicTransportManager.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Downloads\Proj - Copy\PublicTransportManager\Data\ORM\SQLite.cs">
+    <Files>
+      <File FileName="..\..\..\Downloads\Proj - Copy\PublicTransportManager\Model\Constants.cs" Line="8" Column="87" />
+      <File FileName="..\..\..\Downloads\Proj - Copy\PublicTransportManager\Properties\AssemblyInfo.cs" Line="32" Column="7" />
+      <File FileName="..\..\..\Downloads\Proj - Copy\PublicTransportManager\Properties\AndroidManifest.xml" Line="24" Column="46" />
+      <File FileName="..\..\..\Downloads\Proj - Copy\PublicTransportManager\Resources\values\Strings.xml" Line="3" Column="25" />
+      <File FileName="..\..\..\Downloads\Proj - Copy\PublicTransportManager\Data\ORM\SQLite.cs" Line="241" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PublicTransportManager" expanded="True">
+            <Node name="PublicTransportManager" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="ORM" expanded="True">
+                  <Node name="SQLite.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="values" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

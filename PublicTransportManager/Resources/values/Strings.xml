@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Public Transport Manager</string>
+  <string name="search_hint">Въведете линя...</string>
+  <string name="check_line">Провери линия</string>
+  <string name="closest_stop">Близка спирка</string>
+</resources>

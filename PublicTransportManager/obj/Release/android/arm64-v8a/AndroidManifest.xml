@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="262145" android:versionName="1.0" package="com.citym.ptm" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="11" />
+  <!-- Google Maps for Android v2 requires OpenGL ES v2 -->
+  <uses-feature android:glEsVersion="0x00020000" android:required="true" />
+  <!-- We need to be able to download map tiles and access Google Play Services-->
+  <uses-permission android:name="android.permission.INTERNET" />
+  <!-- Allow the application to access Google web-based services. -->
+  <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+  <!-- Google Maps for Android v2 will cache map tiles on external storage -->
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <!-- Google Maps for Android v2 needs this permission so that it may check the connection state as it must download data -->
+  <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+  <!-- Permission to receive remote notifications from Google Play Services -->
+  <!-- Notice here that we have the package name of our application as a prefix on the permissions. -->
+  <uses-permission android:name="com.itwine.GoogleMapApp.permission.MAPS_RECEIVE" />
+  <permission android:name="com.itwine.GoogleMapApp.permission.MAPS_RECEIVE" android:protectionLevel="signature" />
+  <!-- These are optional, but recommended. They will allow Maps to use the My Location provider. -->
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+  <uses-feature android:glEsVersion="0x00020000" android:required="true"></uses-feature>
+  <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="@string/app_name" android:icon="@drawable/icon" android:debuggable="false" android:name="mono.android.app.Application" android:allowBackup="true">
+    <meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyA7NIwcidPW3RufmMiEq-SWgfm3zwnQiAg" />
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+    <activity android:icon="@drawable/icon" android:label="@string/check_line" android:screenOrientation="portrait" android:theme="@style/Base.Theme.DesignDemo" android:name="md56c368a18d63c111c77164946beede9dc.CheckLineActivity">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="@string/closest_stop" android:screenOrientation="portrait" android:theme="@style/Base.Theme.DesignDemo" android:name="md56c368a18d63c111c77164946beede9dc.ClosestStopActivity" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.citym.ptm.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+</manifest>
